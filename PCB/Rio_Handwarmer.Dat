@@ -1,0 +1,14 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Rio_Handwarmer.PrjPCB|ReportField=ProjectFullPath~G:\SCat\Documents\RioHandwarmer\PCB\Rio_Handwarmer.PrjPCB|ReportField=Title~Bill of Materials For Project [Rio_Handwarmer.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~37|ReportField=ReportTime~8:24:13 PM|ReportField=ReportDate~12/20/2010|ReportField=ReportDateTime~12/20/2010 8:24:13 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/20/2010|ReportField=CurrentTime~8:24:09 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\SCat\Documents\RioHandwarmer\PCB\rio.SchDoc|ReportField=DocumentName~rio.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/20/2010|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Rio_Handwarmer.PrjPCB|ReportField=DataSourceFullPath~G:\SCat\Documents\RioHandwarmer\PCB\Rio_Handwarmer.PrjPCB
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C2, C3, C4|0603|Cap Semi|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C4, C5|0805|Cap Semi|2
+LED_3W||D1|2PIN2.0smd|LED_3W|1
+LED||D2, D3|0805|LED|2
+2PIN||J1, J2, J3|2PIN2.54 smd|2PIN|3
+Header 3X2|Header, 3-Pin, Dual row|P1|HDR2X3 - smd|Header 3X2|1
+M8||Q1|TQFP32|M8|1
+NMOS-2|N-Channel Power MOSFET|Q2, Q4|SOT23|NMOS-2|2
+TP4057||Q3|SOT26|TP4057|1
+Res Semi|Semiconductor Resistor|R1, R2, R3|0805|Res Semi|4
+Res Semi|Semiconductor Resistor|R5, R6, R7, R9, R12, R13, R14, R15, R18, R19, R20|0603|Res Semi|11
+Res Semi|Semiconductor Resistor|R8, R11|3216[1206]|Res Semi|2
+Res Semi|Semiconductor Resistor|R10, R16, R17|2PIN2.0smd|Res Semi|3
